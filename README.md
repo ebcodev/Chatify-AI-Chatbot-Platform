@@ -3,7 +3,8 @@
 The open-source AI chat app for everyone.
 
 ![markmap](chatify_readme_markmap.png "Readme Markmap")
-https://github.com/ebcodev/chatify_chatbot_platform/blob/main/chatify_demo.mp4
+
+https://github.com/user-attachments/assets/b5e1f3ab-26cc-4522-97bf-a548beb930fc
 
 ## Updating
 
