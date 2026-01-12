@@ -3,6 +3,8 @@
 The open-source AI chat app for everyone.
 
 ![markmap](chatify_readme_markmap.png "Readme Markmap")
+https://github.com/user-attachments/assets/ddff059a-1894-445d-bf44-3916789b22ac
+
 
 ## Updating
 
